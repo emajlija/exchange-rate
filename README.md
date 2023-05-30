@@ -1,2 +1,2 @@
 # exchange-rate
-calculating money value in diferent currency
+calculating money amount in diferent currency
